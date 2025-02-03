@@ -50,7 +50,7 @@ Primary Users:    <ul>
                   </ul>
 
 Lead Customer(s): <ul>
-                  <li>Brian Quinn(brian.quinn@oracle.com), Kristina Merrigan(kristina.merrigan@oracle.com)
+                  <li>?, ?
                   </ul>
 
 Lead Developer:   <ul>
