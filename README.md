@@ -30,23 +30,22 @@ Required modules: <ul>
                   </ul>
 
 Location:         <ul>
-                  <li>Deployment -> //prd-use1a-pr-34-ci-operations-01/home/bradley.ruck/Projects/
-                                                                                    retail_transaction_data_crawler/
-                  <li>Scheduled to run once a day, triggered by ActiveBatch-V11 under File/Plan -> Retail_DC
+                  <li>Deployment -> 
+                  <li>Scheduled to run once a day, triggered by ActiveBatch-V11 under File/Plan -> 
                   </ul>
 
 Source Code:      <ul>
-                  <li>//gitlab.oracledatacloud.com/odc-operations/Measurement_Retail_Trans_Data_Crawler/
+                  <li>
                   </ul>
 
 LogFile Location: <ul>
-                  <li>//zfs1/Retail_GTM/Retail_Data_Crawler_Logs/
+                  <li>
                   </ul>
 
 **Contact Information -**
 
 Primary Users:    <ul>
-                  <li>Measurement/Retail
+                  <li>
                   </ul>
 
 Lead Customer(s): <ul>
